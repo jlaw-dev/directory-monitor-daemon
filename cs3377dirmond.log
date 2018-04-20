@@ -1,0 +1,11 @@
+Closed standard file descriptors
+Creating the PID file and storing the PID value
+The .versions sub-directory has been created in the watch directory
+inotify initialized.
+Looping...
+The file 'yes' was created.
+File has been copied to .version sub-folder
+Looping...
+Removed PID file.
+Ending process.
+The watch on the directory was removed.
